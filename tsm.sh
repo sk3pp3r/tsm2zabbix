@@ -7,7 +7,7 @@
 # Modify by Haim Cohen [https://www.linkedin.com/in/haimc/]
 ###################################################################################
 #
-# Tested with TSM 6.2 and zabbix 2.0.11
+# Tested with TSM 8.1 and zabbix 2.0.11 by Haim Cohen 2019
 #
 #################
 # CONFIGURATION #
