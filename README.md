@@ -16,7 +16,7 @@ Heavly based upon an existing template found here - https://www.zabbix.com/forum
 ### Making it work !
 
  1. Installing IBM TSM Client 8.1.4 on Ubuntu 16.04
-Read [here](http://10.247.227.48:3000/haimc/HowTo/src/branch/master/Installing-IBM-TSM-Client-8.1.4-on-Ubuntu-16.04.md) how to install IBM TSM Client 8.1.4 on Ubuntu 16.04. 
+Read [here](https://github.com/DukeMobileTech/posts/wiki/Installing-IBM-TSM-Client-8.1.4-on-Ubuntu-16.04) how to install IBM TSM Client 8.1.4 on Ubuntu 16.04. 
 and insure `dsmadmc` client installed.
  2. Install Zabbix_Sender client 
  3. Import `zbx_tsm_templates.xml` to `Zabbix` server.
