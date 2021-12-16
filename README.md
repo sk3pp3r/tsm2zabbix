@@ -22,7 +22,7 @@ and insure `dsmadmc` client installed.
  3. Import `zbx_tsm_templates.xml` to `Zabbix` server.
  4. Attached template to `TSM` node.
  5. Download `tsm.sh` script and make it execue `(chmod +x tsm.sh)`.
- 6. Add to `Cron` `daily` and `hourly`. see note in file `tsm.sh`.
+ 6. Add to [Cron](https://github.com/sk3pp3r/cheat-sheet-pdf/blob/master/pdf/cron.pdf) `daily` and `hourly`. see note in file `tsm.sh`.
 
 
 
